@@ -1,8 +1,8 @@
 @echo off
-title zim $9 BTC - 7 Word AES-256 Puzzle
+title zim $9 BTC and growing - 7 Word AES-256 Puzzle
 
 echo ================================================
-echo     zim $9 BTC - 7 Word AES-256 Puzzle
+echo     zim $9 BTC and growing - 7 Word AES-256 Puzzle
 echo ================================================
 echo.
 
