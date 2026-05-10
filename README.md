@@ -4,6 +4,8 @@
 - **GPU drivers with OpenCL or CUDA support** (required for Hashcat to utilize your GPU):
   - **NVIDIA**: Latest drivers + CUDA Toolkit
   - **AMD**: Radeon Software with OpenCL runtime
+  - 
+Get the word list from: https://www.dropbox.com/scl/fi/b15pjx16z9fc2cvged1kc/phrases.txt?rlkey=hulp9h319o8q6cmww5px3lh8c&st=gf834f4z&dl=0
 
 ### Important Notes
 This setup runs in two nodes simultaneously:
